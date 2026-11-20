@@ -1,9 +1,4 @@
-# Matemática 4 - Análisis Matemático III — Primer cuatrimestre de 2015
-
-## Equipo docente
-
-- **Clases teóricas:** Nicolas Saintier, Jorge Devoto
-- **Clases prácticas:** Nicolas Saintier, Juliana Osorio Morales, Juan Medina, Luciano Alejo Pérez
+# Matemática 4 — Primer cuatrimestre de 2015
 
 ## Prácticas
 
